@@ -2,7 +2,7 @@
   "Ads":
   [
     {
-      "select_ads":"ADMOB",
+      "select_ads":"APPLOVIN",
       "inters_settings":"ON",
       "inters_webview":"ON",
       "admob_openads_status":"ON",
