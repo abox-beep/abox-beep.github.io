@@ -2,15 +2,16 @@
   "Ads":
   [
     {
-      "select_ads":"0",
-      "inters_settings":"http://",
-      "inters_webview":"ADMOB",
-      "admob_openads_status":"APPLOVIN",
-      "admob_open_ads":"1",
+      "select_ads":"ADMOB",
+      "inters_settings":"ON",
+      "inters_webview":"ON",
+      "admob_openads_status":"ON",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
       "admob_inters":"ca-app-pub-3940256099942544/1033173712",
-      "admob_banner":"ca-app-pub-3940256099942544/2247696110",
-      "applovin_inters":"ca-app-pub-3940256099942544/1033173712",
-      "applovin_banner":"ca-app-pub-3940256099942544/630097811"
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "applovin_inters":"6d9821c50abf1e56",
+      "applovin_banner":"ccb2b12c49255e89"
     }
   ]
 }
+
